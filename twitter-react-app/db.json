@@ -1,0 +1,99 @@
+{
+
+
+"tweets":[
+    { 
+        "id":"tweet1",
+        "body": "Movies are becoming good day by day and every story has true potential in it. Storywriting is at it's peaks",
+        "date":"2022-04-15",
+        "AuthorId":"user",
+        "StatsId":"stats",
+        "read": true
+    },
+    { 
+        "id":"tweet",
+        "body": "React is the best front end technnology as of now and crossing all it's boundaries",
+        "date":"2019-05-06",
+        "AuthorId":"user",
+        "StatsId":"stats",
+        "read": false
+    },
+    { 
+        "id":"tweet",
+        "body": "Tata rules the India in manufacturing cars and released best cars such as nexon, harrier, tigor etc..",
+        "date":"2021-03-05",
+        "AuthorId":"user",
+        "StatsId":"stats",
+        "read": false 
+    }
+],
+
+ "users":[
+    {
+        "id": "user1",
+        "username": "SahithiMaligireddy",
+        "first_name": "Sahithi",
+        "last_name": "Maligireddy",
+        "full_name": "Sahithi Maligireddy",
+        "name": "sahithi",
+        "avatar_url": ""
+    },
+    {
+        "id": "user2",
+        "username": "JohnDoe",
+        "first_name": "John",
+        "last_name": "Doe",
+        "full_name": "John Doe",
+        "name": "john",
+        "avatar_url": ""
+    },
+    {
+        "id": "user",
+        "username": "MaryGrace",
+         "first_name": "Mary",
+        "last_name": "Grace",
+         "full_name": "MaryGrace",
+        "name": "mary",
+        "avatar_url": ""
+    }
+],
+
+"stats":[
+    {
+        "id":"stat",
+        "views": 45,
+        "likes": 19,
+        "retweets": 8,
+        "responses": 6
+    },
+    {
+        "id":"stat",
+        "views": 66,
+        "likes": 44,
+        "retweets": 24,
+        "responses": 15
+    },
+    {
+        "id":"stat",
+        "views": 552,
+        "likes": 415,
+        "retweets": 59,
+        "responses": 66
+    }
+],
+
+"notifications":[
+    {
+        "id":"note",
+        "body":"Ravi commented on your tweet"
+    },
+    {
+        "id":"note",
+        "body":"Your tweet is reaching places"
+    },
+    {
+        "id":"note",
+        "body":"Publish your tweet globally"
+    }
+]
+}
